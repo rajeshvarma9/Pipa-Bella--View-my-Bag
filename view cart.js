@@ -19,7 +19,7 @@ for(var i=0; i<(x.length - 1); i++)
 
 var obj = {
 "total_price": 
-document.getElementsByClassName("pb-cart-item-price")[x.length - 2].childNodes[3].childNodes[1].innerText,
+document.getElementsByClassName("pb-cart-item-price")[3].childNodes[3].childNodes[1].innerText,
 "items":  y
 };
 
